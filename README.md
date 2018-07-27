@@ -34,10 +34,13 @@ Simple Tensorflow implementation of [FusionGAN](https://arxiv.org/pdf/1804.07455
 * python main.py --phase test --dataset pose --epoch 20
 
 ## Summary
-![summary](./assets/summary.png)
+![summary](./assets/summary.png) 
 
 ## Architecture
 ![archi](./assets/architecture.png)
+
+## Min-Pooling
+![min-pooling](./assets/minpooling.png)
 
 ## Shape loss
 ![shape_loss](./assets/shape_loss.png)
@@ -49,6 +52,8 @@ Simple Tensorflow implementation of [FusionGAN](https://arxiv.org/pdf/1804.07455
 </div>
 
 ### Paper results
+![p_result3](./assets/p_result3.PNG)
+
 ![p_result](./assets/p_result.png)
 
 ![p_result2](./assets/p_result2.png)
