@@ -43,7 +43,10 @@ Simple Tensorflow implementation of [FusionGAN](https://arxiv.org/pdf/1804.07455
 ![shape_loss](./assets/shape_loss.png)
 
 ## Results
-![result](./assets/result.png)
+<div align="">
+   <img src="./assets/result.png" width="600">
+</div>
+
 
 ## Author
 Junho Kim
