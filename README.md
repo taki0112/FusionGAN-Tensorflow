@@ -1,5 +1,5 @@
 # FusionGAN-Tensorflow
-Simple Tensorflow implementation of FusionGAN (CVPR 2018)
+Simple Tensorflow implementation of [FusionGAN](https://arxiv.org/pdf/1804.07455.pdf) (CVPR 2018)
 
 ## Requirements
 * Tensorflow 1.8
