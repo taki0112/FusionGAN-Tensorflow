@@ -33,7 +33,17 @@ Simple Tensorflow implementation of [FusionGAN](https://arxiv.org/pdf/1804.07455
 ### 4. Test
 * python main.py --phase test --dataset pose --epoch 20
 
+## Summary
+[!summary](./assets/summary.png)
+
+## Architecture
+[!archi](./assets/architecture.png)
+
+## Shape loss
+[!shape_loss](./assets/shape_loss.png)
+
 ## Results
+[!result](./assets/result.png)
 
 ## Author
 Junho Kim
